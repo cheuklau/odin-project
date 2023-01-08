@@ -1,2 +1,3 @@
 # odin-project
-Notes from the Odin project
+
+See Wiki for notes on provided content.
